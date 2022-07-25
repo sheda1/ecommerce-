@@ -49,6 +49,20 @@ nav ul {
     margin: 0;
 }
 
+#container {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
+
+.toast{
+    background-color: rebeccapurple;
+    border-radius: 5px;
+    color: #fff;
+    margin: 1rem;
+    padding: 2rem;
+}
 nav ul li {
     padding: 1rem 0;
 }
